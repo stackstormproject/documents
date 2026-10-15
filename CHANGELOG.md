@@ -9,8 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added Sprint 5 backlog and capacity plan (#9)
 - Added Postman collection skeleton (#7)
 - Added ADR-001: CI/CD location, test location and lint setup (#5)
-- Added team coding standards document (#3)
-
+- Added team coding standards document (#3)- ADR-003 authentication design
+- Added ADR-003 authentication design (#14)
 ### Added
 
 - Documents folder structure and README
