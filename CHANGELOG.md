@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+* ADR-005 customer storefront architecture (#121)
+* Sprint 7 customer storefront backlog with issue descriptions and merge order (#121)
+* Customer storefront test case register (#121)
+* OWASP checklist: customer path evidence; earlier refresh-reuse row corrected (#121)
+
 * Added Sprint 5 backlog and capacity plan (#9)
 * Added Postman collection skeleton (#7)
 * Added ADR-001: CI/CD location, test location and lint setup (#5)
