@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+* ADR-006 admin console architecture (#154)
+* Sprint 8 admin console backlog with issue descriptions, merge order and open gaps #158-#170 (#154)
+* Admin console and admin API test case register (#154)
+* OWASP checklist: admin console evidence; #122 marked fixed (#154)
 * ADR-005 customer storefront architecture (#121)
 * Sprint 7 customer storefront backlog with issue descriptions and merge order (#121)
 * Customer storefront test case register (#121)
