@@ -19,6 +19,23 @@ Broader project: https://github.com/stackstormproject
 | `sprint-7/` | Customer storefront backlog (#100-#131) |
 | `sprint-8/` | Admin console backlog (#122, #132-#170) |
 
+## Live application
+
+| App | URL |
+|---|---|
+| Customer storefront | https://stackstorm.live/ |
+| Admin console | https://admin.stackstorm.live/ |
+
+Demo staff accounts (both apps share the backend's staff accounts; see the admin console
+README for the full role matrix):
+
+| Account | Role | Password |
+|---|---|---|
+| `admin@stackstorm.lk` | super_admin | `NewPassword123` |
+| `support@stackstorm.lk` | support_agent | `NewPassword123` |
+
+These are demo/seed credentials for grading and review only, not production secrets.
+
 Related repositories:
 [backend](https://github.com/stackstormproject/backend),
 [customer storefront](https://github.com/stackstormproject/stackstorm-frontend-customer),
